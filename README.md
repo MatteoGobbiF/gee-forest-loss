@@ -6,7 +6,7 @@ This project is made up of three different scripts that use the [Global Forest C
 ## [find_most_deforestation](https://code.earthengine.google.com/78312fa0c5709f37baec3de396a14477)
 This script computes the total forest loss in a given year in each GAUL level 2 administrative regions, and put the results in a csv file.
 By uncommenting the ***forest loss due to fire*** block it is possible to filter out all the area of forest loss that was caused by forest fires in the given year.<br>
-***IMPORTANT***: The computation can take a long time (up to one hour). The resulting csv files are provided in this repository.
+***IMPORTANT***: The computation can take a long time (up to one hour). The resulting csv files are provided [here](https://drive.google.com/drive/folders/1alsSYysCae-tJgjywH0W4GaTEZpN68mr?usp=sharing).
 
 ## [compute_deforestation](https://code.earthengine.google.com/8a2e226cddf49c092b171f991aec8aed)
 This script is the actual project assigned by the professors. It analyzes the forest loss of the Cordillera region (Bolivia) in 2021.<br>
